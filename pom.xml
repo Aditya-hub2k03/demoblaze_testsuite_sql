@@ -19,7 +19,7 @@
     <scope>provided</scope>
 </dependency>
 
-        <!-- Spring MVC -->
+        <!-- Spring MVC (can be updated to boot)-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
