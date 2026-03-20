@@ -8,7 +8,7 @@
             <class name="com.yogesh.testcases.SignUpLoginTest"/>
             <class name="com.yogesh.testcases.AddToCartTest"/>
             <class name="com.yogesh.testcases.ClearCartTest"/>
-            <class name="com.yogesh.testcases.CategoryNavigationTest"/>
+            <class name="com.yogesh.testcases.CategoryNavigationTest"/> 
             <class name="com.yogesh.testcases.CheckoutTest"/>
         </classes>
     </test>
