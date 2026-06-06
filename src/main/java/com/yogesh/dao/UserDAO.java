@@ -15,7 +15,7 @@ public class UserDAO {
             stmt.executeUpdate();
             try (ResultSet rs = stmt.getGeneratedKeys()) {
                 if (rs.next()) {
-                    user.setId(rs.getInt(1));
+                    user.setId(rs.getInt(1)); 
                 }
             }
         }
